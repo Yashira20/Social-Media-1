@@ -1,0 +1,40 @@
+img {
+    height: 500px;
+    display: flex;
+}
+
+body {
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v870-mynt-01.jpg?w=600&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=bc52fa48f623a6f46d5164536bf912be");
+}
+
+.media {
+    text-decoration: underline;
+    background-color: black;
+    color: white;
+}
+.me {
+    text-decoration: underline;
+    background-color: green;
+}
+
+.background {
+    padding: 15px;
+    margin: 25px;
+    background-color:red;
+}
+
+.p {
+    padding: 10px;
+    background-color: blue;
+}
+
+.background {
+    text-decoration: underline;
+}
+
+.info {
+    background-color: white;
+}
+.info1{
+    padding:20px;
+}
